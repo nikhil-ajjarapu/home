@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.d7604045.chunk.css",
+    "main.js": "/home/static/js/main.0ec3106e.chunk.js",
+    "main.js.map": "/home/static/js/main.0ec3106e.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
+    "static/js/2.7603fd9d.chunk.js": "/home/static/js/2.7603fd9d.chunk.js",
+    "static/js/2.7603fd9d.chunk.js.map": "/home/static/js/2.7603fd9d.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.50bffaa1139d8d6af3d4cce97cf1f16c.js": "/home/precache-manifest.50bffaa1139d8d6af3d4cce97cf1f16c.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/main.d7604045.chunk.css.map": "/home/static/css/main.d7604045.chunk.css.map",
+    "static/js/2.7603fd9d.chunk.js.LICENSE.txt": "/home/static/js/2.7603fd9d.chunk.js.LICENSE.txt",
+    "static/media/nikhilajjarapu.png": "/home/static/media/nikhilajjarapu.8b74fea4.png",
+    "static/media/resume.pdf": "/home/static/media/resume.827a73aa.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c590061.js",
+    "static/js/2.7603fd9d.chunk.js",
+    "static/css/main.d7604045.chunk.css",
+    "static/js/main.0ec3106e.chunk.js"
+  ]
+}
